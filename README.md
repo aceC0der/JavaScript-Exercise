@@ -1,6 +1,6 @@
 # JavaScript Exercise
 
-This repository contains JavaScript solutions for the Codility lessons. The problem is part of the lessons provided by Codility for programmers.
+This repository contains JavaScript solutions for the Codility lessons.
 
 ## Problem Description
 
